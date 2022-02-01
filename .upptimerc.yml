@@ -4,9 +4,9 @@ repo: upptime-status # The name of this repository
 
 sites:
   - name: Luis Cantillo Blog Test
-    url: https://luis-cantillo.com/
+    url: https://luis-cantillo.com/joomla
   - name: Luis Cantillo Personal Page
-    url: https://lscantillo.github.io/
+    url: https://lscantillo.github.io
     
 assignees:
   - lscantillo

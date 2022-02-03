@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/luis-cantillo.com",
     "slug": "luis-cantillo-blog-test",
     "status": "up",
-    "uptime": "97.64%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "97.64%",
-    "time": 1616,
-    "timeDay": 1616,
-    "timeWeek": 1616,
-    "timeMonth": 1616,
-    "timeYear": 1616,
+    "uptime": "99.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.26%",
+    "time": 1733,
+    "timeDay": 2202,
+    "timeWeek": 1733,
+    "timeMonth": 1733,
+    "timeYear": 1733,
     "dailyMinutesDown": {
       "2022-02-01": 15
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "time": 115,
+    "timeDay": 142,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   }
 ]

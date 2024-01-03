@@ -14,7 +14,9 @@
     "timeDay": 59,
     "timeWeek": 59,
     "timeMonth": 64,
-    "timeYear": 110,
-    "dailyMinutesDown": {}
+    "timeYear": 109,
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   }
 ]
